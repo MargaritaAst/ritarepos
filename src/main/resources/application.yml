@@ -1,0 +1,10 @@
+application.viber-bot:
+ auth-token: "481afe640e27d002-cd47b454e57d6d7-4103a5ce5e28ee2d"
+ webhook-url: "https://blobloblo.herokuapp.com"
+ name: "BotoRit"
+ avatar: "http://детскийспортивныйкомплекс.рф/image/cache/data/deflectors/39-600x600.png"
+
+logging:
+  level:
+    root: DEBUG
+
